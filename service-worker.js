@@ -1,4 +1,4 @@
-var cacheName = 'digitaler-alltag-mein-jahr-im-vtsei';
+var cacheName = 'edb-projektmanagement';
 
 /* Start the service worker and cache all of the app's content or use the existing one */
 self.addEventListener('install', function (e) {
