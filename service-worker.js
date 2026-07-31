@@ -1,4 +1,4 @@
-var cacheName = 'edbsim';
+var cacheName = 'digitaler-alltag-mein-jahr-im-vtsei';
 
 /* Start the service worker and cache all of the app's content or use the existing one */
 self.addEventListener('install', function (e) {
